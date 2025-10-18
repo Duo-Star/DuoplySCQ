@@ -1,6 +1,8 @@
 # DuoplySCQ
+
 Connect your mc server and QQ
-连接你的mc服务器和QQ
+
+连接你的 **mc服务器** 和 **QQ**
 
 [qq-1]: https://github.com/Duo-Star/DuoplySCQ/blob/main/qq-1.jpg
 [qq-2]: https://github.com/Duo-Star/DuoplySCQ/blob/main/qq-2.jpg
@@ -22,7 +24,7 @@ Connect your mc server and QQ
 ### 有相聚便有离别，开学原因，我们的服务器停止服务，重开时间另行通知
 
 ## 说正经的！
-咳咳那个，这是 *群服互联* 模组源代码，你可以构建出fabric模组运行在你的服务器上
+咳咳那个，这是 **群服互联** 模组源代码，你可以构建出 **fabric模组** 运行在你的服务器上
 
 如果你没有经验，建议去bili学习模组开发，毕竟我也是摸索出来的
 
