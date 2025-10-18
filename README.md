@@ -13,7 +13,7 @@ Connect your mc server and QQ
 [end]: https://github.com/Duo-Star/DuoplySCQ/blob/main/end.png
 [first]: https://github.com/Duo-Star/DuoplySCQ/blob/main/first.jpg
 [hhh]: https://github.com/Duo-Star/DuoplySCQ/blob/main/hhh.png
-[mc]: https://github.com/Duo-Star/DuoplySCQ/blob/main/the-end.jpg
+[mc]: https://github.com/Duo-Star/DuoplySCQ/blob/main/mc.jpg
 [us]: https://github.com/Duo-Star/DuoplySCQ/blob/main/us.jpg
 [warm]: https://github.com/Duo-Star/DuoplySCQ/blob/main/warm.jpg
 [the-end]: https://github.com/Duo-Star/DuoplySCQ/blob/main/the-end.jpg
@@ -53,18 +53,43 @@ QQ-MathForest:663251235
 1.0.9(..16) 不再显示uuid，加入「首个玩家」「狐狐小憩」等
 
 ## 画廊
+our friends
 ![alt text][us]
+
+our city
 ![alt text][city]
+
+first time run the scq
 ![alt text][first]
+
+qq-runing
 ![alt text][qq-1]
+
+mc - great game
 ![alt text][mc]
+
+hhh
 ![alt text][hhh]
+
+our bluemap website
 ![alt text][bluemap]
+
+the-end
 ![alt text][the-end]
+
+cute-color
 ![alt text][color]
+
+duo is coding
 ![alt text][coding]
+
+warm
 ![alt text][warm]
+
+qq-end
 ![alt text][qq-2]
+
+end
 ![alt text][end]
 
 
