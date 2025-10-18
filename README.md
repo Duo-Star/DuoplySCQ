@@ -17,6 +17,7 @@ Connect your mc server and QQ
 [us]: https://github.com/Duo-Star/DuoplySCQ/blob/main/us.jpg
 [warm]: https://github.com/Duo-Star/DuoplySCQ/blob/main/warm.jpg
 [the-end]: https://github.com/Duo-Star/DuoplySCQ/blob/main/the-end.jpg
+[napcat]: https://github.com/Duo-Star/DuoplySCQ/blob/main/napcat.png
 
 
 嗯，一个时代落幕了，我们收获了欢声笑语和友谊一大箩筐
@@ -82,6 +83,9 @@ mc - great game
 
 hhh
 ![alt text][hhh]
+
+napcat
+![][napcat]
 
 our bluemap website
 ![alt text][bluemap]
